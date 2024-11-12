@@ -1,4 +1,4 @@
-**Stock Recommendation System**
+# **Stock Recommendation System**
 
 Welcome to the Stock Recommendation System project! This repository features an advanced recommendation system that analyzes multiple data sources to provide actionable insights for stocks, advising users on whether to Buy, Sell, or Hold a stock. Additionally, we offer a Retrieval-Augmented Generation (RAG) pipeline chatbot that assists users with basic stock market queries, helping them deepen their market knowledge.
 
