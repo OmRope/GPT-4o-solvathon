@@ -20,7 +20,9 @@ To aid users in learning about the stock market, we have implemented a chatbot b
 RAG-based Responses: Combines a retrieval system with a generation model to provide relevant and accurate answers.
 Stock Market Education: Enables users to gain a deeper understanding of terms like P/E ratios, market capitalization, dividend yields, and more.
 Interactive and User-friendly: The chatbot provides a conversational and intuitive learning experience.
-🛠️ Features
+
+**🛠️ Features**
+
 - Recommendation System:
 - Analyzes stock trends, recent news, and financial statements.
 - Offers Buy, Sell, or Hold recommendations.
