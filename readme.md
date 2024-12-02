@@ -29,3 +29,33 @@ Interactive and User-friendly: The chatbot provides a conversational and intuiti
 - RAG Chatbot:
   - Query-based system that retrieves relevant stock market information.
   - Provides learning resources and explanations of stock market terms.
+
+**⚙️ Setup Guidelines**
+1. OpenAI API Key
+This project requires an OpenAI API key for generating chatbot responses. During the hackathon, participants were provided with an API key. Ensure that you use that key to proceed with this project. If you don’t have a key, you may need to acquire one by signing up on the OpenAI platform.
+
+Add the API key to your environment by creating a .env file in the project directory:
+OPENAI_API_KEY=<your_api_key_here>
+
+2. Install Dependencies
+Before running the project, install the required dependencies by executing:
+pip install -r requirements.txt
+
+3. Running the Application
+- To start the recommendation system:
+    python stock_recommendation.py
+- To use the chatbot:
+    python chatbot.py
+
+6. Features in Action
+Recommendation System: Input stock ticker symbols to get recommendations.
+Chatbot: Ask questions like:
+“What is a P/E ratio?”
+“Should I buy Tesla stocks based on its current trend?”
+
+**📝 Notes**
+Ensure you have access to the internet, as the OpenAI API requires external calls.
+The recommendation system uses financial APIs (e.g., Alpha Vantage, Yahoo Finance), so you may need API keys for those services as well.
+
+**💡 Contributions**
+We welcome contributions to enhance this system! Feel free to submit issues or create a pull request for adding features or improving the chatbot's capabilities.
