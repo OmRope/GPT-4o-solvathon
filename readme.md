@@ -42,15 +42,12 @@ Interactive and User-friendly: The chatbot provides a conversational and intuiti
   ```pip install -r requirements.txt```
 
 3. Running the Application
-- To start the recommendation system:
-   ```python stock_recommendation.py```
-- To use the chatbot:
-   ```python chatbot.py```
+- To start the recommendation system::
+   ```streamlit run app.py```
 
 6. Features in Action
-- Recommendation System: Input stock ticker symbols to get recommendations.
+- Recommendation System: Input stock name to get recommendations.
 - Chatbot: Ask questions like:
-  - “What is a P/E ratio?”
   - “Should I buy Tesla stocks based on its current trend?”
 
 **📝 Notes**
