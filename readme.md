@@ -32,14 +32,14 @@ Interactive and User-friendly: The chatbot provides a conversational and intuiti
 
 **⚙️ Setup Guidelines**
 1. OpenAI API Key
-This project requires an OpenAI API key for generating chatbot responses. During the hackathon, participants were provided with an API key. Ensure that you use that key to proceed with this project. If you don’t have a key, you may need to acquire one by signing up on the OpenAI platform.<br>
+- This project requires an OpenAI API key for generating chatbot responses. During the hackathon, participants were provided with an API key. Ensure that you use that key to proceed with this project. If you don’t have a key, you may need to acquire one by signing up on the OpenAI platform.<br>
 
-Add the API key to your environment by creating a .env file in the project directory:
-```OPENAI_API_KEY=<your_api_key_here>```
+  - Add the API key to your environment by creating a .env file in the project directory:
+    ```OPENAI_API_KEY=<your_api_key_here>```
 
 2. Install Dependencies
-Before running the project, install the required dependencies by executing:
-```pip install -r requirements.txt```
+- Before running the project, install the required dependencies by executing:
+  ```pip install -r requirements.txt```
 
 3. Running the Application
 - To start the recommendation system:
