@@ -45,7 +45,7 @@ Interactive and User-friendly: The chatbot provides a conversational and intuiti
 - To start the recommendation system::
    ```streamlit run app.py```
 
-6. Features in Action
+Features in Action
 - Recommendation System: Input stock name to get recommendations.
 - Chatbot: Ask questions like:
   - “Should I buy Tesla stocks based on its current trend?”
